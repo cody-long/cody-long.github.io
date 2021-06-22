@@ -2,6 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/categories/</loc></url><url>
-            <loc>http://example.org/</loc></url><url>
-            <loc>http://example.org/tags/</loc></url></urlset>
+            <loc>http://cody-long.github.io/cv/</loc><lastmod>2015-07-22T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://cody-long.github.io/publications/</loc><lastmod>2015-07-21T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://cody-long.github.io/categories/</loc></url><url>
+            <loc>http://cody-long.github.io/</loc></url><url>
+            <loc>http://cody-long.github.io/tags/</loc></url></urlset>
